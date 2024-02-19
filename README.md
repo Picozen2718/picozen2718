@@ -1,8 +1,6 @@
 Hello!
 
-Welcome to this site :)
-
-You can find all the public codes I have written here.
+This site is under contruction. Please visit later.
 
 <!--
 **Picozen2718/picozen2718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
